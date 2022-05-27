@@ -5,3 +5,4 @@
 02. [x] [Assignment-2-Student.ipynb](Assignment-2-Student.ipynb)
 03. [x] [DVwPy_Assignment_1_Student.ipynb](DVwPy_Assignment_1_Student.ipynb)
 04. [x] [DVwPy_Assignment_2 student.ipynb](DVwPy_Assignment_2_student.ipynb)
+05. [x] [DA _DVwPy-EDA-Project-(Analyze-US-Citizens)-Student-V01.ipynb](./DA_DVwPy-EDA-Project-(Analyze-US-Citizens)-Student-V01.ipynb)
