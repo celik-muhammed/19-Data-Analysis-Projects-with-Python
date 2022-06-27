@@ -1,7 +1,7 @@
 ### [Go to Home Page](https://github.com/celik-muhammed/00-Index-of-GitHub-Public-Projects-Repository-Logs)
 
 
-01. [x] [01. DA _DVwPy-EDA-Project-(Analyze-US-Citizens)-Student-V01.ipynb](./DA_DVwPy-EDA-Project-(Analyze-US-Citizens)-Student-V01.ipynb)
+01. [x] [01. DVwPy-EDA-Project-(Analyze-US-Citizens)-V01.ipynb](./DA_DVwPy-EDA-Project-(Analyze-US-Citizens)-Student-V01.ipynb)
 
 01. [x] [Assignment-1-Student.ipynb](Assignment-1-Student.ipynb)
 02. [x] [Assignment-2-Student.ipynb](Assignment-2-Student.ipynb)
