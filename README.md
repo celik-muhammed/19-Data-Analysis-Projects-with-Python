@@ -5,12 +5,12 @@
 
 | Data Analysis Project | Kaggle |
 | --- | --- |
-| [01. US-Citizens-EDA-Project-Data-Analysis.ipynb).ipynb](./US-Citizens-EDA-Project-Data-Analysis.ipynb) | [](#) |
+| [01. US-Citizens-EDA-Project-Data-Analysis.ipynb](./US-Citizens-EDA-Project-Data-Analysis.ipynb) | [](#) |
 | [02. Credit Score Classification Data Cleaning Project Solution.ipynb](./Credit-Score-Classification-Data-Cleaning-Project-Solution.ipynb) | [Kaggle: Credit Score Classification Data Cleaning Project](https://www.kaggle.com/code/clkmuhammed/credit-score-classification-data-cleaning-project/notebook) |
 
 
 
-[kaggle]: https://www.kaggle.com/celikMuhammed "Kaggle Page"
+[kaggle]: https://www.kaggle.com/clkmuhammed/code "Kaggle Page"
 [Linkedin]: https://www.linkedin.com/in/çelik-muhammed/ "LinkedIn"
 [github_pages]: https://celik-muhammed.github.io/ "GitHub Pages"
 [medium]: https://celik-muhammed.medium.com/ "Medium Page"
